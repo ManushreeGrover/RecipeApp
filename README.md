@@ -12,6 +12,11 @@ Chef's Love is a modern recipe application designed to make cooking easy and fun
 
 ---
 
+## Preview
+
+- Here are some screenshots of the application
+  ![image alt](https://github.com/ManushreeGrover/RecipeApp/blob/main/home%20page.png?raw=true)
+
 ## Tech Stack
 
 - **Frontend**: HTML, CSS, JavaScript, React
