@@ -1,0 +1,226 @@
+
+.navbar {
+   background-color:   rgb(24, 82, 24);
+    padding: 15px 15px;
+  
+  }
+
+ 
+.search-btn-navbar {
+
+    padding: 5px ;
+    background-color: #ffffff;
+    color:  rgb(184, 72, 72);
+    border: none;
+    border-radius: 40px;
+    font-size: 1rem;
+    cursor: pointer;
+    font-weight: bold;
+    transition: background-color 0.3s ease;
+    width: 230px;
+    font-family: Parkinsans;
+  }
+  
+  .search-btn-navbar:hover {
+    background-color:  rgb(184, 72, 72);
+    color: #ffffff;
+  }
+
+  .glist-btn-navbar{
+    padding: 10px 15px;
+    background-color: #ffffff;
+    color:  rgb(184, 72, 72);
+    border: none;
+    border-radius: 10px;
+    font-size: 0.7rem;
+    cursor: pointer;
+    font-weight: bold;
+    transition: background-color 0.3s ease;
+    font-family: Parkinsans;
+  }
+
+  .glist-btn-navbar:hover {
+    background-color:  rgb(184, 72, 72);
+    color: #ffffff;
+  }
+
+  .video-btn-navbar{
+    padding: 10px 15px;
+    background-color: #ffffff;
+    color:  rgb(184, 72, 72);
+    border: none;
+    border-radius: 10px;
+    font-size: 0.7rem;
+    cursor: pointer;
+    font-weight: bold;
+    transition: background-color 0.3s ease;
+    font-family: Parkinsans;
+  }
+
+  .video-btn-navbar:hover {
+    background-color: rgb(184, 72, 72);
+    color: #ffffff;
+  }
+
+  .edit-btn-navbar{
+    padding: 10px 15px;
+    background-color: #ffffff;
+    color:  rgb(184, 72, 72);
+    border: none;
+    border-radius: 10px;
+    font-size: 0.7rem;
+    cursor: pointer;
+    font-weight: bold;
+    transition: background-color 0.3s ease;
+    font-family: Parkinsans;
+  }
+
+  .edit-btn-navbar:hover {
+    background-color: rgb(184, 72, 72);
+    color: #ffffff;
+  }
+
+  
+  .logo {
+    font-size: 1.4rem;
+    color: white;
+    font-weight: bold;
+    display: flex;
+    gap: 170px;
+    font-family: Sour Gummy;
+   
+  }
+
+  
+.material-symbols-outlined {
+  font-variation-settings:
+  'FILL' 0,
+  'wght' 400,
+  'GRAD' 0,
+  'opsz' 24
+}
+  .navitems{
+    display: flex;
+    gap: 20px; 
+  }
+  
+  .quote-section {
+    background-image: url('back6.jpg');
+    height: 40vh; 
+    padding: 20px;
+    
+  }
+  
+  .quote-content {
+    display: flex;
+    gap: 9rem;
+  }
+  
+
+
+  .quote-content h2 {
+    font-size: 2.8rem;
+    color: white;
+    margin-top: 4rem;
+    /* font-family: Titan One; */
+    font-weight: lighter;
+    /* font-family: Kavivanar  ; */
+    font-family: Alkatra;
+    margin-left: 7rem;
+  }
+
+  
+  .plate-image {
+    width: 350px;
+    height:318px;
+
+  }
+
+  .sweet-image{
+    width: 300px;
+    height:318px;
+  }
+  
+.recipe-section {
+    display: flex;
+    padding: 5px;
+    background-color:    rgb(24, 82, 24);
+   
+}
+
+
+.recipe-right h2 {
+    font-size: 2.3rem;
+    color: white;
+    margin-left: 62px; 
+    font-family: Parkinsans;
+    font-weight: lighter;
+    margin-bottom: 0;
+}
+
+.label {
+    /* font-size: 1rem; */
+    color: white;
+    margin-top: 0.2em;
+    /* margin-bottom: 40px; */
+    margin-left: 65px;
+    font-size: 1.5rem;
+    font-weight:bolder;
+    /* font-family: Parkinsans; */
+    /* font-weight: lighter; */
+    font-family: Alkatra;
+}
+
+.ctype{
+  color: white;
+  margin-left: 65px;
+  font-size: 0.9rem;
+  font-weight:lighter;
+    font-family: Parkinsans;
+}
+
+.mtype{
+  color: white;
+  margin-left: 65px;
+  font-size: 0.9rem;
+  font-weight:lighter;
+  font-family: Parkinsans;
+}
+
+.calorie{
+  color: white;
+  margin-left: 65px;
+  font-size: 0.9rem;
+  font-weight:lighter;
+  font-family: Parkinsans;
+}
+
+.recipe-image {
+    width: 530px; 
+    max-height: 300px; 
+    border-radius: 15px;
+    margin-left: 30px;
+    margin-top: 15px;
+    margin-bottom: 10px;
+}
+
+
+
+.search-btn {
+    background-color:  #ffffff;
+    color:   rgb(184, 72, 72);
+    font-size: 1rem;
+    padding: 12px 30px;
+    border: none;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+    margin-right: 170px;
+    margin-left: 65px;
+    font-weight: bold;
+    /* margin-top: 40px; */
+}
+
+
+.search-btn:hover {
+    background-color:   rgb(184, 72, 72); 
+}
